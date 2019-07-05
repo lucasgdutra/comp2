@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562366066 source:c:\users\lucasdutra\desktop\comp2\comp2\trabalho_comp2\externo.c
+	<stdio.h>
+	<stdlib.h>
+
