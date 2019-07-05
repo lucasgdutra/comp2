@@ -1,0 +1,6 @@
+#ifndef EXTERNO_H_INCLUDED
+#define EXTERNO_H_INCLUDED
+
+
+
+#endif // EXTERNO_H_INCLUDED
