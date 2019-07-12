@@ -3,3 +3,19 @@
 	<stdio.h>
 	<stdlib.h>
 
+1562953828 source:c:\users\pessoal\documents\github\comp2\trabalho_comp2\externo.c
+	<stdio.h>
+	<stdlib.h>
+
+1562966642 source:c:\users\pessoal\documents\github\comp2\trabalho_comp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"externo.h"
+
+1562966931 c:\users\pessoal\documents\github\comp2\trabalho_comp2\externo.h
+
+1561495478 source:c:\users\pessoal\desktop\listas que tenho que fazer\ic2\codeblock-saves\lista2.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
